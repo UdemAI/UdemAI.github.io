@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          UdeM AI
+description:    "Club d'Intelligence Artificielle de l'Université de Montréal"
 # baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://udemai.github.io"
 
 # Google Analytics
 # google_analytics: UA—XXXXXXXX-X
 
 # Author
-author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+# author:
+  # name:         Chester How
+  # url:          https://chester.how
+  # email:        chesterhow@gmail.com
 
 # Build settings
 markdown:       kramdown
