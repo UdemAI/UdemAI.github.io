@@ -2,7 +2,7 @@
 layout: post
 title:  "Rencontre 1"
 author: "Emulie Chhor"
-tags: Planification
+tags: Rencontre
 excerpt_separator: <!--more-->
 comments: false
 sticky: false
