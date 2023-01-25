@@ -50,4 +50,3 @@ Il existe plusieurs méthodes pour détecter les points aberrants:
 
 On verra comment implémenter la méthode IQR sur python.
 
-

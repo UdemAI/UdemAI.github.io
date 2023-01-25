@@ -6,7 +6,7 @@ tags: Planification
 excerpt_separator: <!--more-->
 comments: false
 sticky: false
-hidden: true
+hidden: false
 ---
 
 Planification des séances du mois de février 2023
@@ -20,5 +20,6 @@ régression logistique. On verra aussi d'autres algorithmes de classification,
 notamment le KNN, les SVM, Bayes Naif et les fenêtres de Parzen.
 
 Pour les étudiants plus avancés, on vous proposera quelques papiers à lire 
-sur lesquels on discutera lors des séances subséquentes.
+sur lesquels on discutera lors des séances subséquentes. Les papiers seront 
+pris du site [paperswithcode](https://paperswithcode.com/sota)
 

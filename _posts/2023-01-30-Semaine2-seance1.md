@@ -6,7 +6,7 @@ tags: Rencontre
 excerpt_separator: <!--more-->
 comments: false
 sticky: false
-hidden: true
+hidden: false
 ---
 
 On explore quelques implémentations de la régression linéaire: en utilisant 
