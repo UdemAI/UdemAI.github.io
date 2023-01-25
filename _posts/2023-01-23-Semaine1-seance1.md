@@ -40,12 +40,12 @@ données
 On voudrait répondre à la question suivante: Prédire la valeur des ventes
 au 50e mois à l'aide d'une régression linéaire
 
-On remarque qu'on peut obtenir la régression linéaire de plusieurs façons: 
+Notons qu'on peut obtenir la régression linéaire de plusieurs façons: 
 1. avec la librairie `sklearn`
 2. avec un calcul matriciel
 3. en minimisant l'erreur MSE
 4. avec une descente de gradient
 
-Nous avons déjà commencé à discuter de la 3e méthode, mais on s'attardera 
-davantage à ces méthodes pour les prochaines séances.
+Nous avons déjà commencé à discuter de la 3e méthode et on s'attardera 
+à son implémentation lors de la prochaine séance.
 
