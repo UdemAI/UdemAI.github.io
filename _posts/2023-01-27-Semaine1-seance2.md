@@ -12,9 +12,9 @@ hidden: false
 On se penche sur la méthodologie de base lors de l'exploration de données
 <!--more-->
 
-Les données se trouvent [ici](https://github.com/UdemAI/Code/blob/main/Datasets/shampoo.csv)
+Les données se trouvent [ici](https://github.com/UdemAI/Code/blob/main/Datasets/Uber.csv)
 
-Un exemple de notebook est à venir
+Un exemple de notebook se trouvent [ici](https://github.com/UdemAI/Code/blob/main/Notebooks/week1_EDA.ipynb)
 
 # Plan de la séance
 
@@ -22,6 +22,7 @@ Un exemple de notebook est à venir
 2. Techniques de visualisation de données 
 3. Vérification des hypothèses d'une régression linéaire
 4. Détection de point aberrant avec la méthode IQR
+5. Introduction au KNN
 
 ## Introduction à `pandas`
 
@@ -49,4 +50,12 @@ Il existe plusieurs méthodes pour détecter les points aberrants:
 - DFFITS
 
 On verra comment implémenter la méthode IQR sur python.
+
+## Introduction au KNN
+
+On vous montre comment implémenter un KNN avec la librairie `scikit-learn`.
+
+Voici une vidéo explicative faite par [ritvikmath](https://www.youtube.com/watch?v=UR2ag4lbBtc)
+
+
 
