@@ -21,7 +21,7 @@ Un exemple de notebook est à venir
 
 1. Régression Linéaire en minimisant l'erreur MSE
 2. Régression Linéaire avec l'algèbre linéaire et `scipy`
-3. Vérification des hypothèses d'une régression linéaire
+3. KNN from scratch
 4. Introduction à Git
 
 ## Régression Linéaire en minimisant l'erreur MSE
@@ -31,7 +31,7 @@ Un exemple de notebook est à venir
 ## Régression Linéaire avec l'algèbre linéaire et `scipy`
 
 
-## Vérification des hypothèses d'une régression linéaire
+## KNN from Scratch
 
 
 ## Introduction à Git
