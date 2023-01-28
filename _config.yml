@@ -28,6 +28,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-spaceship # add table, mathjax, .. support
+
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks

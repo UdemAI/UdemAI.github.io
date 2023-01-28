@@ -57,5 +57,3 @@ On vous montre comment implémenter un KNN avec la librairie `scikit-learn`.
 
 Voici une vidéo explicative faite par [ritvikmath](https://www.youtube.com/watch?v=UR2ag4lbBtc) (en anglais)
 
-
-
