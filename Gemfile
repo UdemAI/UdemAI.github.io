@@ -4,5 +4,6 @@ source "https://rubygems.org"
 gemspec
 
 gem "jekyll-spaceship"
+gem "jekyll-seo-tag"
 
 
