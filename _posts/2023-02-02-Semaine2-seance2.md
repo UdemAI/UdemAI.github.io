@@ -34,7 +34,6 @@ Quelques ressources pour mieux comprendre le KNN:
 
 Quelques ressources pour mieux comprendre la régression logistique:
 - [Comment la régression logistique fonctionne (long)](https://www.youtube.com/watch?v=jbluHIgBmBo&t=1959s)
-
 - [Comment coder la régression logistique from scratch](https://www.youtube.com/watch?v=YYEJ_GUguHw&list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd&index=5)
 
 ## Introduction au SVM
